@@ -1,6 +1,6 @@
 # env-fastapi
 
-A python environment for FastAPI with Redis (optional) as database/volume.
+A local docker environment for Python and FastAPI with Redis (optional) as database/volume.
 
 ## Requirements
 
